@@ -11,7 +11,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-public class SearchHindiBooksInWeb extends BaseClassTNG {
+public class firstSearchHindiBooksInWeb extends BaseClassTNG {
 
 	@Test
 	public void searchHindiBooks() throws Exception {
